@@ -34,7 +34,7 @@
 }
 .botaoLink  button{
     text-decoration: none;
-    width: 15%;
+    width: 150px;
     position: relative;
     border: 2px solid rgb(255, 160, 176);
     border-radius: 10px;
@@ -48,7 +48,7 @@
     cursor: pointer;
     
 }
-.botaoLink:hover  button{
+.botaoLink:hover button{
     border: 2px solid rgb(250, 30, 169);
     border-radius: 5px;
     background-color: rgb(219, 144, 184);
